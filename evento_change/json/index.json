@@ -1,0 +1,37 @@
+{
+	"JavaScript":[
+		{
+			"name":"Angular",
+			"description":"Angular fue lanzado en 2009 por Google y es uno de los frameworks open source más avanzado. Para aplicaciones web de una sola página",
+			"image":"../imagenes/Angular.png"
+		},
+		{
+			"name":"React.js",
+			"description": "Es una librería open source de JavaScript para desarrollar interfaces de usuario. Fue lanzada en el año 2013 y desarrollada por Facebook",
+			"image":"../imagenes/React.png"
+		},
+		{
+			"name":"Vue.js",
+			"description": "Es un framework progresivo para construir interfaces de usuario. Vue está diseñado desde cero para ser utilizado incrementalmente",
+			"image":"../imagenes/Vuejs.png"
+		}
+
+	],
+	"PHP":[
+		{
+			"name":"laravel",
+			"description":"Laravel es un framework de código abierto para desarrollar aplicaciones y servicios web. El futuro de Laravel es bastante prometedor y amplio",
+			"image":"../imagenes/Laravel.png"
+		},
+		{
+			"name":"Symfony",
+			"description":"Symfony es un entorno de trabajo estandarizado (framework PHP) que se utiliza para el desarrollo de aplicaciones web",
+			"image":"../imagenes/Symfony.png"
+		},
+		{
+			"name":"CodeIgniter",
+			"description":"CodeIgniter es un framework para el desarrollo de aplicaciones en php. Gran parte de la configuración de CodeIgniter se realiza por convención",
+			"image":"../imagenes/Codeigniter.png"
+		}
+	]
+}
